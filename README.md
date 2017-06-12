@@ -1,10 +1,10 @@
-# Deep Learning Models that Just Work
+# The Terrible Deep Learning List
 
-Open Source models that deep learning and machine learning engineers can download and run first try
+Here lies 15 Open Source models that deep learning and machine learning engineers can download and run first try.
+No attempt has been made to "cover all the bases" of deep learning.
+If you have never touched Deep Learning and know you will never find the time to go back and start from the fundamentals and build up to deploying deep learning models this list is for you.
 
-*"If You're Not Embarrassed By The First Version Of Your [**Awesome Github Deep Learning List**], You’ve Launched Too Late" - RH*
-    
-  - [**Gated Conditional Pixel Convolutional Neural Network using TensorFlow**](https://github.com/anantzoid/Conditional-PixelCNN-decoder)<br>
+- [**Gated Conditional Pixel Convolutional Neural Network using TensorFlow**](https://github.com/anantzoid/Conditional-PixelCNN-decoder)<br>
   - [**Value Iteration Networks using TensorFlow — Best Paper Award NIPS ‘16**](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks)<br>
   - [**Flappy Bird using Deep Reinforcement Learning (Deep Q-learning)**](https://github.com/yenchenlin/DeepLearningFlappyBird)<br>
   - [**LSTM Music Generation with Google Magenta Basic RNN**](https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn#basic)<br>
