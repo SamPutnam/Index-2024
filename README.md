@@ -1,4 +1,4 @@
-# Deep Learning Models that Run on your Mac First Try
+# Deep Learning Models that Just Work
 
 Open Source models that deep learning and machine learning engineers can download and run first try
 
