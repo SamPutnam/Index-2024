@@ -1,6 +1,6 @@
 # The Terrible Deep Learning List
 
-Here lies 15 Open Source models that deep learning and machine learning engineers can download and run first try.
+Here lie 15 Open Source models that deep learning and machine learning engineers can download and run first try.
 No attempt has been made to "cover all the bases" of deep learning.
 If you have never touched Deep Learning and know you will never find the time to go back and start from the fundamentals and build up to deploying deep learning models this list is for you.
 
