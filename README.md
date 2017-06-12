@@ -17,7 +17,7 @@ Open Source models that deep learning and machine learning engineers can downloa
   - [**Symbolic AI Speech Recognition with iOS 10 Speech APIs**](https://github.com/darjeelingsteve/speech-recognition)<br>
   - [**Video Style Transfer using Torch 7**](https://github.com/manuelruder/artistic-videos)<br>
   - [**Algorithmia API Photo Colorizer**](http://demos.algorithmia.com/colorize-photos/)<br>
-  - [**Clarifai Information Retrieval for Videos on Android**]https://github.com/hanuor/onyx)<br>
+  - [**Clarifai Information Retrieval for Videos on Android**](https://github.com/hanuor/onyx)<br>
   - [**All Demos**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/All%20Cheat%20Sheets.pdf)<br>
   
 [**https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)
