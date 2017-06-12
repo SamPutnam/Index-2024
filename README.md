@@ -2,7 +2,7 @@
 
 Open Source models that deep learning and machine learning engineers can download and run first try
 
-"If You're Not Embarrassed By The First Version Of Your [ Awesome Github Deep Learning List ], You’ve Launched Too Late" - RH
+*"If You're Not Embarrassed By The First Version Of Your [ Awesome Github Deep Learning List ], You’ve Launched Too Late" - RH*
     
   - [**Gated Conditional Pixel Convolutional Neural Network using TensorFlow**](https://github.com/anantzoid/Conditional-PixelCNN-decoder)<br>
   - [**Value Iteration Networks using TensorFlow — Best Paper Award NIPS ‘16**](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks)<br>
