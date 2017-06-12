@@ -1,4 +1,4 @@
-# deep-learning-download-and-run-on-your-macbook-pro
+# Deep Learning Models that Run on your Mac First Try
 
 Open Source models that deep learning and machine learning engineers can download and run first try
 
