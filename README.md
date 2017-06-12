@@ -1,4 +1,5 @@
-# deep-learning-download-and-run
+# deep-learning-download-and-run-on-your-macbook-pro
+
 Open Source models that deep learning and machine learning engineers can download and run first try
 
 "If You're Not Embarrassed By The First Version Of Your [ Awesome Github Deep Learning List ], You’ve Launched Too Late" - RH
