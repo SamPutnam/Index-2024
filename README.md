@@ -21,7 +21,8 @@ Remember, if you're getting into deep learning - *change the world!*
   - [**Video Style Transfer using Torch 7**](https://github.com/manuelruder/artistic-videos) [*(Demo)*](https://twitter.com/samdeeplearning/status/854332749695602720)<br>
   - [**Algorithmia API Photo Colorizer**](http://demos.algorithmia.com/colorize-photos/) [*(Demo)*](https://twitter.com/samdeeplearning/status/834084906921779201)<br>
   - [**Clarifai Information Retrieval for Videos on Android**](https://github.com/hanuor/onyx) [*(Demo)*](https://www.linkedin.com/feed/update/urn:li:activity:6280034396732956672/)<br>
-  - [*(All Demos)*](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)<br>
+  
+ [*(All Demos)*](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)<br>
   
 [**https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)
 
