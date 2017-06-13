@@ -1,8 +1,10 @@
 # The Terrible Deep Learning List
 
-Here lie 15 Open Source models that deep learning and machine learning engineers can download and run first try.
-No attempt has been made to "cover all the bases" of deep learning.
-If you have never touched Deep Learning and know you will never find the time to go back and start from the fundamentals this list is for you.
+Here are 15 open source deep learning models that programmers interested in deep learning can download and run first try. Seeing these examples come to life for the first time feels like magic. I want you to get to experience that same sense of wonder.
+This is a terrible deep learning list. No attempt has been made to "cover all the bases" of the field of deep learning.
+But - If you have never touched Deep Learning and think you might never find the time to go back and start from the fundamentals, this list is for you! 
+
+Remember, if you're getting into deep learning - change the world!
 
 - [**Gated Conditional Pixel Convolutional Neural Network using TensorFlow**](https://github.com/anantzoid/Conditional-PixelCNN-decoder)<br>
   - [**Value Iteration Networks using TensorFlow — Best Paper Award NIPS ‘16**](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks)<br>
@@ -22,4 +24,6 @@ If you have never touched Deep Learning and know you will never find the time to
   - [**All Demos**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)<br>
   
 [**https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)
-  
+
+Please email me if the following doesn't work for you. Really!
+sam@enterprisedeeplearning.com
