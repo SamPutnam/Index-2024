@@ -4,7 +4,7 @@ Here are 15 open source deep learning models that programmers interested in deep
 This is a terrible deep learning list. No attempt has been made to "cover all the bases" of the field of deep learning.
 But - If you have never "dove deep" into Deep Learning and just want to try something out, these examples are for you! 
 
-Remember, if you're getting into deep learning - change the world!
+*Remember, if you're getting into deep learning - change the world!*
 
 - [**Gated Conditional Pixel Convolutional Neural Network using TensorFlow**](https://github.com/anantzoid/Conditional-PixelCNN-decoder) [*(Demo)*](https://medium.com/@SamPutnam/this-is-the-1st-deep-learning-zero-to-one-newsletter-this-one-is-called-image-generation-935bcaf0f37c)<br>
   - [**Value Iteration Networks using TensorFlow — Best Paper Award NIPS ‘16**](https://github.com/TheAbhiKumar/tensorflow-value-iteration-networks) [*(Demo)*](https://twitter.com/samdeeplearning/status/831943425331232774)<br>
