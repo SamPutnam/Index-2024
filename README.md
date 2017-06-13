@@ -1,6 +1,6 @@
 # The Terrible Deep Learning List
 
-Here are 15 open source deep learning models that programmers interested in deep learning can download and run first try. Seeing these examples come to life for the first time feels like magic. I want you to get to experience that same sense of wonder.
+Here are 15 open source deep learning models that programmers interested in deep learning can download and run first try. Seeing these examples come to life for the first time feels like magic. Try one for yourself.
 This is a terrible deep learning list. No attempt has been made to "cover all the bases" of the field of deep learning.
 But - If you have never "dove deep" into Deep Learning and just want to try something out, these examples are for you! 
 
