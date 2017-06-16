@@ -31,8 +31,8 @@ sam@enterprisedeeplearning.com
 
 
 
-Edit: 
+**Edit:** 
 
-Want to learn the [math](https://news.ycombinator.com/item?id=14567807)? Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deeplearningconf.com)
+*Want to learn the [math](https://news.ycombinator.com/item?id=14567807)?* Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deeplearningconf.com)
 
-Want to be the event sponsor for [Deep Learning Conf](http://deeplearningconf.com)? Email me at [sam@enterprisedeeplearning.com](mailto:sam@edeeplearning.com). 
+*Want to be the event sponsor for [Deep Learning Conf](http://deeplearningconf.com)?* Email me at [sam@enterprisedeeplearning.com](mailto:sam@edeeplearning.com). 
