@@ -28,3 +28,6 @@ Remember, if you're getting into deep learning - *change the world!*
 
 Please email me if the following doesn't work for you. Really.
 sam@enterprisedeeplearning.com
+
+Want to learn the math? Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deeplearningconf.com)
+Want to sponsor the Deep Learning Conf event itself? Email me at [sam@enterprisedeeplearning.com[(mailto:sam@edeeplearning.com). 
