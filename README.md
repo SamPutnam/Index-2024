@@ -32,4 +32,4 @@ sam@enterprisedeeplearning.com
 
 Want to learn the math? Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deeplearningconf.com)
 
-Want to sponsor the Deep Learning Conf event itself? Email me at [sam@enterprisedeeplearning.com[(mailto:sam@edeeplearning.com). 
+Want to sponsor the Deep Learning Conf event itself? Email me at [sam@enterprisedeeplearning.com](mailto:sam@edeeplearning.com). 
