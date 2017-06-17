@@ -39,15 +39,15 @@ sam@enterprisedeeplearning.com
 <img src="http://i.imgur.com/TFV1jJS.png" width="400">
 <img src="http://i.imgur.com/SMBlvFC.png" width="550">
 
-Sign up for Day 1 of Deep Learning Conf® now at [deeplearningconf.com](http://deeplearningconf.com)
+Sign up for Day 1 of **Deep Learning Conf®** now at [deeplearningconf.com](http://deeplearningconf.com)
 
 *[Want to be the event sponsor for Deep Learning Conf](https://twitter.com/DeepLearningUSA/status/875760415581638657)?* Email me at [sam@enterprisedeeplearning.com](mailto:sam@edeeplearning.com). 
 
-*Can't make it to [New York](http://deeplearningmonth.com), 
-[Cambridge](http://datascienceconf.com), or 
-[Hanover](artificialintelligenceconf.com) for an in-person event?* 
+*Can't make it to [New York for **Deep Learning Conf®**](http://deeplearningmonth.com), 
+[Cambridge for **Data Science Conf®**](http://datascienceconf.com), or 
+[Hanover for **Artificial Intelligence Conf®**](artificialintelligenceconf.com)?* 
 
-Sign up for the AI Month® video course bundle at [aimonth.com](http://aimonth.com)
+Sign up for the online/worldwide **AI Month®** video course bundle at [aimonth.com](http://aimonth.com).
 
 <img src="http://i.imgur.com/vlZ3hPq.png" width="500">
 <img src="http://i.imgur.com/axpJDbp.png" width="500">
@@ -55,6 +55,7 @@ Sign up for the AI Month® video course bundle at [aimonth.com](http://aimonth.c
 
 Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC
 
-<img src="http://i.imgur.com/mjjYgDD.png.png" width="400">
+**Founding Sponsor:**
+<img src="http://i.imgur.com/mjjYgDD.png.png" width="300">
 
 [enterprisedeeplearning.com](http://enterprisedeeplearning.com)
