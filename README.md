@@ -33,6 +33,16 @@ sam@enterprisedeeplearning.com
 
 **Edit:** 
 
-*[Want to learn the math](https://news.ycombinator.com/item?id=14567807)?* Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deeplearningconf.com)
+*[Want to learn the math](https://news.ycombinator.com/item?id=14567807)?* 
+
+<img src="http://i.imgur.com/ME7VY79.png" width="800">
+
+Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deeplearningconf.com)
 
 *[Want to be the event sponsor for Deep Learning Conf](https://twitter.com/DeepLearningUSA/status/875760415581638657)?* Email me at [sam@enterprisedeeplearning.com](mailto:sam@edeeplearning.com). 
+
+*Can't make it to [New York](http://deeplearningmonth.com), [Cambridge](http://datascienceconf.com), or [Hanover](artificialintelligenceconf.com) for an in-person event?* 
+
+<img src="http://i.imgur.com/vlZ3hPq.png" width="800">
+
+Sign up for an AI Month® video course at [http://aimonth.com](http://aimonth.com)
