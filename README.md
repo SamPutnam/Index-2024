@@ -35,9 +35,9 @@ sam@enterprisedeeplearning.com
 
 *[Want to learn the math](https://news.ycombinator.com/item?id=14567807)?* 
 
-<img src="http://i.imgur.com/ME7VY79.png" width="800">
+<img src="http://i.imgur.com/ME7VY79.png" width="300"><img src="http://http://i.imgur.com/TFV1jJS.png.png" width="300"><img src="http://i.imgur.com/SMBlvFC.png" width="300">
 
-Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deeplearningconf.com)
+Sign up for Day 1 of Deep Learning Conf® now at [deeplearningconf.com](http://deeplearningconf.com)
 
 *[Want to be the event sponsor for Deep Learning Conf](https://twitter.com/DeepLearningUSA/status/875760415581638657)?* Email me at [sam@enterprisedeeplearning.com](mailto:sam@edeeplearning.com). 
 
@@ -45,9 +45,9 @@ Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deepl
 [Cambridge](http://datascienceconf.com), or 
 [Hanover](artificialintelligenceconf.com) for an in-person event?* 
 
-Sign up for an AI Month® video course at [aimonth.com](http://aimonth.com)
+Sign up for the AI Month® video course bundle at [aimonth.com](http://aimonth.com)
 
-<img src="http://i.imgur.com/vlZ3hPq.png" width="800">
+<img src="http://i.imgur.com/vlZ3hPq.png" width="300"><img src="http://http://i.imgur.com/axpJDbp.png.png" width="300"><img src="http://i.imgur.com/U1d8F69.png" width="300">
 
 Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC
 
