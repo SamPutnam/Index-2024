@@ -46,3 +46,5 @@ Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deepl
 <img src="http://i.imgur.com/vlZ3hPq.png" width="800">
 
 Sign up for an AI Month® video course at [http://aimonth.com](http://aimonth.com)
+
+Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC
