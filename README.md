@@ -48,3 +48,7 @@ Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deepl
 Sign up for an AI Month® video course at [http://aimonth.com](http://aimonth.com)
 
 Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC
+
+<img src="http://i.imgur.com/mjjYgDD.png.png" width="800">
+
+[http://enterprisedeeplearning.com](http://enterprisedeeplearning.com)
