@@ -51,6 +51,7 @@ Sign up for the online/worldwide **AI Month®** video course bundle at [aimonth.
 
 <img src="http://i.imgur.com/vlZ3hPq.png" width="525">
 <img src="http://i.imgur.com/axpJDbp.png" width="490">
+
 <img src="http://i.imgur.com/U1d8F69.png" width="240">
 
 Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC
