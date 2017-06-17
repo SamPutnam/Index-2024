@@ -37,7 +37,7 @@ sam@enterprisedeeplearning.com
 
 <img src="http://i.imgur.com/ME7VY79.png" width="400">
 <img src="http://i.imgur.com/TFV1jJS.png" width="400">
-<img src="http://i.imgur.com/SMBlvFC.png" width="500">
+<img src="http://i.imgur.com/SMBlvFC.png" width="550">
 
 Sign up for Day 1 of Deep Learning Conf® now at [deeplearningconf.com](http://deeplearningconf.com)
 
@@ -51,7 +51,7 @@ Sign up for the AI Month® video course bundle at [aimonth.com](http://aimonth.c
 
 <img src="http://i.imgur.com/vlZ3hPq.png" width="500">
 <img src="http://i.imgur.com/axpJDbp.png" width="500">
-<img src="http://i.imgur.com/U1d8F69.png" width="300">
+<img src="http://i.imgur.com/U1d8F69.png" width="250">
 
 Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC
 
