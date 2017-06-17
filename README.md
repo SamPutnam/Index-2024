@@ -47,11 +47,11 @@ Sign up for Day 1 of **Deep Learning Conf®** now at [deeplearningconf.com](http
 [Cambridge for **Data Science Conf®**](http://datascienceconf.com), or 
 [Hanover for **Artificial Intelligence Conf®**](http://artificialintelligenceconf.com)?* 
 
-Sign up for the online/worldwide **AI Month®** video course bundle at [aimonth.com](http://aimonth.com).
+Sign up for the online/worldwide **AI Month®** video course bundle (includes Data Science and Deep Learning courses) at [aimonth.com](http://aimonth.com).
 
 <img src="http://i.imgur.com/U1d8F69.png" width="240">
-<img src="http://i.imgur.com/vlZ3hPq.png" width="525">
- <img src="http://i.imgur.com/axpJDbp.png" width="490">
+  <img src="http://i.imgur.com/vlZ3hPq.png" width="525">
+   <img src="http://i.imgur.com/axpJDbp.png" width="490">
 
 Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC
 
