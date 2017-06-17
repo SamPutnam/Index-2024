@@ -41,14 +41,16 @@ Sign up for Day 1 of Deep Learning Conf® at [deeplearningconf.com](http://deepl
 
 *[Want to be the event sponsor for Deep Learning Conf](https://twitter.com/DeepLearningUSA/status/875760415581638657)?* Email me at [sam@enterprisedeeplearning.com](mailto:sam@edeeplearning.com). 
 
-*Can't make it to [New York](http://deeplearningmonth.com), [Cambridge](http://datascienceconf.com), or [Hanover](artificialintelligenceconf.com) for an in-person event?* 
+*Can't make it to [New York](http://deeplearningmonth.com), 
+[Cambridge](http://datascienceconf.com), or 
+[Hanover](artificialintelligenceconf.com) for an in-person event?* 
 
 <img src="http://i.imgur.com/vlZ3hPq.png" width="800">
 
-Sign up for an AI Month® video course at [http://aimonth.com](http://aimonth.com)
+Sign up for an AI Month® video course at [aimonth.com](http://aimonth.com)
 
 Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC
 
 <img src="http://i.imgur.com/mjjYgDD.png.png" width="800">
 
-[http://enterprisedeeplearning.com](http://enterprisedeeplearning.com)
+[enterprisedeeplearning.com](http://enterprisedeeplearning.com)
