@@ -74,3 +74,6 @@ Sign up for the online/worldwide **AI Month®** video course bundle at [aimonth.
 <img src="http://i.imgur.com/mjjYgDD.png.png" width="300">
 
 [enterprisedeeplearning.com](http://enterprisedeeplearning.com)
+
+
+© All rights reserved, Enterprise Deep Learning, LLC
