@@ -31,8 +31,7 @@ Remember, if you're getting into deep learning - *change the world!*
   
 [**https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)
 
-Please email me if the following doesn't work for you. Really.
-sam@enterprisedeeplearning.com
+Please email me if the following doesn't work for you. *sam@enterprisedeeplearning.com*
 
 
 
