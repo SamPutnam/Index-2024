@@ -35,9 +35,9 @@ sam@enterprisedeeplearning.com
 
 *[Want to learn the math](https://news.ycombinator.com/item?id=14567807)?* 
 
-<a href="http://deeplearningconf.com">&nbsp;&nbsp;<img src="http://i.imgur.com/ME7VY79.png" width="400">&nbsp;&nbsp; </a>
+<a href="http://deeplearningconf.com">&nbsp;&nbsp;<img src="http://i.imgur.com/ME7VY79.png" width="400">&nbsp;&nbsp;</a>
 <a href="http://datascienceconf.com"> <img src="http://i.imgur.com/TFV1jJS.png" width="400">&nbsp; </a>
-<a href="http://artificialintelligenceconf.com"> &nbsp;&nbsp;<img src="http://i.imgur.com/SMBlvFC.png" width="550"> </a>
+<a href="http://artificialintelligenceconf.com"> &nbsp;&nbsp;<img src="http://i.imgur.com/SMBlvFC.png" width="550"></a>
 
 Sign up for Day 1 of **Deep Learning Conf®** now at [deeplearningconf.com](http://deeplearningconf.com)
 
