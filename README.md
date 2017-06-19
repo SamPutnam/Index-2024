@@ -23,7 +23,7 @@ Remember, if you're getting into deep learning - *change the world!*
  
 **Part 2: Deep Learning On iOS**
   
-   - [**Convolutional Neural Network using TensorFlow on iOS**](https://github.com/LunarFlash/convolutional-neural-network-image-recognition) [*(Demo)*](https://www.youtube.com/watch?v=EYP7099z6kk) [*(Tutorial)*](https://ai-month.teachable.com/courses/the-terrible-deep-learning-list-part-1-tutorials/lectures/2855472)<br>
+   - [**Convolutional Neural Network using TensorFlow on iOS**](https://github.com/LunarFlash/convolutional-neural-network-image-recognition) [*(Demo)*](https://www.youtube.com/watch?v=EYP7099z6kk) [*(Tutorial)*](https://ai-month.teachable.com/courses/the-terrible-deep-learning-list-part-2-tutorials/lectures/2855506)<br>
   - [**MNIST (of course) on iOS**](https://github.com/hollance/Forge/tree/master/Examples/MNIST) [*(Demo)*](https://www.youtube.com/watch?v=EL78-Rgoyfw) [*(Tutorial)*](https://ai-month.teachable.com/courses/the-terrible-deep-learning-list-part-2-tutorials/lectures/2855507)<br>
   - [**MobileNets on iOS**](https://github.com/hollance/Forge/tree/master/Examples/MobileNets) [*(Demo)*](https://www.youtube.com/watch?v=0vBsU__JTlA) [*(Tutorial)*](https://ai-month.teachable.com/courses/the-terrible-deep-learning-list-part-2-tutorials/lectures/2855508)<br>
   - [**YOLO on iOS**](https://github.com/hollance/Forge/tree/master/Examples/YOLO) [*(Demo)*](https://www.youtube.com/watch?v=OUdN4srAtRA) [*(Tutorial)*](https://ai-month.teachable.com/courses/the-terrible-deep-learning-list-part-2-tutorials/lectures/2855510)<br>
