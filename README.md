@@ -31,9 +31,7 @@ Remember, if you're getting into deep learning - *change the world!*
  
  [All Tutorials - Part 2: Deep Learning on iOS](https://ai-month.teachable.com/p/the-terrible-deep-learning-list-part-2-tutorials)<br>
  
- [All Demos](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)<br>
-  
-[**https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)
+ [All Demos](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9) - [**https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)<br>
 
 Please email me if the following doesn't work for you. *sam@enterprisedeeplearning.com*
 
