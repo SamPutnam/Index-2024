@@ -14,7 +14,7 @@ Remember, if you're getting into deep learning - *change the world!*
   - [**LSTM Music Generation with Google Magenta Basic RNN**](https://github.com/tensorflow/magenta/tree/master/magenta/models/melody_rnn#basic) [*(Demo)*](https://twitter.com/samdeeplearning/status/844657399239770113)<br>
   - [**Live Captioning using Speech APIs on iOS**](https://github.com/zats/SpeechRecognition) [*(Demo)*](https://www.youtube.com/watch?v=Xt8o3dlH7uQ)<br>
   - [**Spotify Artist Search using Speech APIs on iOS**](https://github.com/marcdown/SayWhat) [*(Demo)*](https://www.youtube.com/watch?v=uM4Gav8Tk8A)<br>
-  - [**Symbolic AI Speech Recognition with iOS 10 Speech APIs**](https://github.com/darjeelingsteve/speech-recognition)[*(Demo)*](https://www.youtube.com/watch?v=nPV66HmgbNo)<br>
+  - [**Symbolic AI Speech Recognition with iOS 10 Speech APIs**](https://github.com/darjeelingsteve/speech-recognition) [*(Demo)*](https://www.youtube.com/watch?v=nPV66HmgbNo)<br>
   - [**Video Style Transfer using Torch 7**](https://github.com/manuelruder/artistic-videos) [*(Demo)*](https://twitter.com/samdeeplearning/status/854332749695602720)<br>
   - [**Algorithmia API Photo Colorizer**](http://demos.algorithmia.com/colorize-photos/) [*(Demo)*](https://twitter.com/samdeeplearning/status/834084906921779201)<br>
   - [**Clarifai Information Retrieval for Videos on Android**](https://github.com/hanuor/onyx) [*(Demo)*](https://www.linkedin.com/feed/update/urn:li:activity:6280034396732956672/)<br>
