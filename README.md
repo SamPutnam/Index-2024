@@ -35,9 +35,9 @@ sam@enterprisedeeplearning.com
 
 *[Want to learn the math](https://news.ycombinator.com/item?id=14567807)?* 
 
-&nbsp;&nbsp;<img src="http://i.imgur.com/ME7VY79.png" width="400">&nbsp;&nbsp;
-<img src="http://i.imgur.com/TFV1jJS.png" width="400">&nbsp;
-&nbsp;&nbsp;<img src="http://i.imgur.com/SMBlvFC.png" width="550">
+<a href="http://deeplearningconf.com">&nbsp;&nbsp;<img src="http://i.imgur.com/ME7VY79.png" width="400">&nbsp;&nbsp; </a>
+<a href="http://datascienceconf.com"> <img src="http://i.imgur.com/TFV1jJS.png" width="400">&nbsp; </a>
+<a href="http://artificialintelligenceconf.com"> &nbsp;&nbsp;<img src="http://i.imgur.com/SMBlvFC.png" width="550"> </a>
 
 Sign up for Day 1 of **Deep Learning Conf®** now at [deeplearningconf.com](http://deeplearningconf.com)
 
@@ -51,19 +51,19 @@ Sign up for the online/worldwide **AI Month®** video course bundle at [aimonth.
 
 ***Deep Learning Month***
 
-<img src="http://i.imgur.com/vlZ3hPq.png" width="525">
+<a href="http://aimonth.com"><img src="http://i.imgur.com/vlZ3hPq.png" width="525"> </a>
 
 
 ***AI Month***
 
 
-<img src="http://i.imgur.com/U1d8F69.png" width="240">
+<a href="http://aimonth.com"> <img src="http://i.imgur.com/U1d8F69.png" width="240"> </a>
 
 
 ***Data Science Month***
 
 
-<img src="http://i.imgur.com/axpJDbp.png" width="490">
+<a href= "http://aimonth.com"> <img src="http://i.imgur.com/axpJDbp.png" width="490"> </a>
 
 
 
@@ -71,7 +71,7 @@ Sign up for the online/worldwide **AI Month®** video course bundle at [aimonth.
 
 **Founding Sponsor:**
 
-<img src="http://i.imgur.com/mjjYgDD.png.png" width="300">
+<a href="http://enterprisedeeplearning.com"> <img src="http://i.imgur.com/mjjYgDD.png.png" width="300"> </a>
 
 [enterprisedeeplearning.com](http://enterprisedeeplearning.com)
 
