@@ -39,7 +39,7 @@ Please email me if the following doesn't work for you. *sam@enterprisedeeplearni
 
 **Edit:** 
 
-*[Want to learn the math](https://news.ycombinator.com/item?id=14567807)and get these working on your computer?* 
+*[Want to learn the math](https://news.ycombinator.com/item?id=14567807) and get these working on your computer?* 
 
 <a href="http://deeplearningconf.com">&nbsp;&nbsp;<img src="http://i.imgur.com/ME7VY79.png" width="400">&nbsp;&nbsp;</a>
 <a href="http://datascienceconf.com"> <img src="http://i.imgur.com/TFV1jJS.png" width="400">&nbsp; </a>
