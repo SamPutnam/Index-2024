@@ -27,8 +27,6 @@ Remember, if you're getting into deep learning - *change the world!*
   - [**YOLO on iOS**](https://github.com/hollance/Forge/tree/master/Examples/YOLO) [*(Demo)*](https://www.youtube.com/watch?v=OUdN4srAtRA) <br>
   - [**Inception on iOS**](https://github.com/hollance/Forge/tree/master/Examples/Inception) [*(Demo)*](https://www.youtube.com/watch?v=XxDbKlIomhc) <br>
  
- [All Tutorials - Part 2: Deep Learning on iOS](https://ai-month.teachable.com/p/the-terrible-deep-learning-list-part-2-tutorials)<br>
- 
  [All Demos](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9) - [**https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)<br>
 
 Please email me if the following doesn't work for you. *sam@artificialintelligencemastery.com*
