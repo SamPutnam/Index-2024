@@ -33,53 +33,6 @@ Remember, if you're getting into deep learning - *change the world!*
  
  [All Demos](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9) - [**https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9**](https://medium.com/@SamPutnam/deep-learning-download-and-run-a9a1e374d2d9)<br>
 
-Please email me if the following doesn't work for you. *sam@enterprisedeeplearning.com*
+Please email me if the following doesn't work for you. *sam@artificialintelligencemastery.com*
 
-
-
-**Edit:** 
-
-*[Want to learn the math](https://news.ycombinator.com/item?id=14567807) and get these working on your computer?* 
-
-<a href="http://deeplearningconf.com">&nbsp;&nbsp;<img src="http://i.imgur.com/ME7VY79.png" width="400">&nbsp;&nbsp;</a>
-<a href="http://datascienceconf.com"> <img src="http://i.imgur.com/TFV1jJS.png" width="400">&nbsp; </a>
-<a href="http://artificialintelligenceconf.com"> &nbsp;&nbsp;<img src="http://i.imgur.com/SMBlvFC.png" width="550"></a>
-
-Sign up for Day 1 of **Deep Learning Conf®** now at [deeplearningconf.com](http://deeplearningconf.com)
-
-*[Want to be the event sponsor for Deep Learning Conf](https://twitter.com/DeepLearningUSA/status/875760415581638657)?* Email me at [sam@enterprisedeeplearning.com](mailto:sam@edeeplearning.com). 
-
-*Can't make it to [New York for **Deep Learning Conf®**](http://deeplearningmonth.com), 
-[Cambridge for **Data Science Conf®**](http://datascienceconf.com), or 
-[Hanover for **Artificial Intelligence Conf®**](http://artificialintelligenceconf.com)?* 
-
-Sign up for the online/worldwide **AI Month®** video course bundle at [aimonth.com](http://aimonth.com).
-
-***Deep Learning Month***
-
-<a href="http://aimonth.com"><img src="http://i.imgur.com/vlZ3hPq.png" width="525"> </a>
-
-
-***AI Month***
-
-
-<a href="http://aimonth.com"> <img src="http://i.imgur.com/U1d8F69.png" width="240"> </a>
-
-
-***Data Science Month***
-
-
-<a href= "http://aimonth.com"> <img src="http://i.imgur.com/axpJDbp.png" width="490"> </a>
-
-
-
-*Sam Putnam, CEO/Founder, Deep Learning Consultant at Enterprise Deep Learning, LLC*
-
-**Founding Sponsor:**
-
-<a href="http://enterprisedeeplearning.com"> <img src="http://i.imgur.com/mjjYgDD.png.png" width="300"> </a>
-
-[enterprisedeeplearning.com](http://enterprisedeeplearning.com)
-
-
-© All rights reserved, Enterprise Deep Learning, LLC
+© All rights reserved, Enterprise Deep Learning, LLC d/b/a Artificial Intelligence Mastery
