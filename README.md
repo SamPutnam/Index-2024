@@ -24,7 +24,7 @@ Remember, if you're getting into deep learning - *change the world!*
    - [**Convolutional Neural Network using TensorFlow on iOS**](https://github.com/LunarFlash/convolutional-neural-network-image-recognition) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/Neural+Network+Image+Recognition.mov) <br>
   - [**MNIST (of course) on iOS**](https://github.com/hollance/Forge/tree/master/Examples/MNIST) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/MNIST+(of+course)+iOS.mp4) <br>
   - [**MobileNets on iOS**](https://github.com/hollance/Forge/tree/master/Examples/MobileNets) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/MobileNets+on+iOS.mp4) <br>
-  - [**YOLO on iOS**](https://github.com/hollance/Forge/tree/master/Examples/YOLO) [*(Demo)*](https://www.youtube.com/watch?v=OUdN4srAtRA) <br>
+  - [**YOLO on iOS**](https://github.com/hollance/Forge/tree/master/Examples/YOLO) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/YOLO+on+iOS.mp4) <br>
   - [**Inception on iOS**](https://github.com/hollance/Forge/tree/master/Examples/Inception) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/Inception+on+iOS.mp4) <br>
  
 Please email me if the following doesn't work for you. *sam@artificialintelligencemastery.com*
