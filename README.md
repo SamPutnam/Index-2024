@@ -21,7 +21,7 @@ Remember, if you're getting into deep learning - *change the world!*
  
 **Part 2: Deep Learning On iOS**
   
-   - [**Convolutional Neural Network using TensorFlow on iOS**](https://github.com/LunarFlash/convolutional-neural-network-image-recognition) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/Neural+Network+Image+Recognition.mov) <br>
+   - [**Convolutional Neural Network using TensorFlow on iOS**](https://github.com/LunarFlash/convolutional-neural-network-image-recognition) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/Neural+Network+Image+Recognition.m4v) <br>
   - [**MNIST (of course) on iOS**](https://github.com/hollance/Forge/tree/master/Examples/MNIST) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/MNIST+(of+course)+iOS.mp4) <br>
   - [**MobileNets on iOS**](https://github.com/hollance/Forge/tree/master/Examples/MobileNets) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/MobileNets+on+iOS.mp4) <br>
   - [**YOLO on iOS**](https://github.com/hollance/Forge/tree/master/Examples/YOLO) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/YOLO+on+iOS.mp4) <br>
