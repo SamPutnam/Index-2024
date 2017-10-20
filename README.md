@@ -27,6 +27,6 @@ Remember, if you're getting into deep learning - *change the world!*
   - [**YOLO on iOS**](https://github.com/hollance/Forge/tree/master/Examples/YOLO) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/YOLO+on+iOS.mp4) <br>
   - [**Inception on iOS**](https://github.com/hollance/Forge/tree/master/Examples/Inception) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/Inception+on+iOS.mp4) <br>
  
-Please email me if the following doesn't work for you. *sam@artificialintelligencemastery.com*
+Please email me if the following doesn't work for you. *samhputnam@gmail.com*
 
-© All rights reserved, Artificial Intelligence Mastery
+© All rights reserved, Sam Putnam
