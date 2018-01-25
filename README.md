@@ -62,9 +62,8 @@ This is an index of past and current open source projects, ordered by last subst
 
 
 # The Terrible Deep Learning List
-
-Here are 15 open source deep learning models that programmers interested in deep learning can download and run first try. Seeing these examples come to life for the first time feels like magic. I want other programmers to experience this wonder.
-This is a *terrible* deep learning list. No attempt has been made to "cover all the bases" of the field of deep learning.
+15 working deep learning examples that programmers can download and run first try withou
+Here are 15 working open source deep learning models that programmers interested in deep learning can download and run first try without learning any of the math. Seeing these examples come to life for the first time feels like magic. I want other programmers to experience this wonder. This is a *terrible* deep learning list. No attempt has been made to "cover all the bases" of the field of deep learning.
 But - If you have never "dived deep" into Deep Learning and just want to try something out, these examples are for you! 
 
 Remember, if you're getting into deep learning - *change the world!*
@@ -90,6 +89,6 @@ Remember, if you're getting into deep learning - *change the world!*
   - [**YOLO on iOS**](https://github.com/hollance/Forge/tree/master/Examples/YOLO) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/YOLO+on+iOS.mp4) <br>
   - [**Inception on iOS**](https://github.com/hollance/Forge/tree/master/Examples/Inception) [*(Demo)*](https://s3.amazonaws.com/artificialintelligencemastery.com/Inception+on+iOS.mp4) <br>
  
-Please email me if the following doesn't work for you. *samhputnam@gmail.com*
+Please email me if the following doesn't work for you. *sam@samputnam.com*
 
 © All rights reserved, Sam Putnam
