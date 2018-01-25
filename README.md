@@ -59,7 +59,7 @@ This is an index of past and current open source projects, ordered by last subst
 
 
 
-
+# Index - 2017
 
 # The Terrible Deep Learning List
 15 working deep learning examples that programmers can download and run first try withou
