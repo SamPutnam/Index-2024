@@ -1,4 +1,4 @@
-# Index
+# Index - 2018
 
 This is an index of past and current open source projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on helping independent consultants net $250k by negotiating higher billing rates. To give you guys a free gift for checking me out here however I have made all of my courses on Teachable free, including the deep learning on the Amazon Web Services cloud course and the real estate feedforward neural network example that used real Vermont/New Hampshire data to predict closing prices with stunning accuracy: [SuperiorCourses.Teachable.com](http://superiorcourses.teachable.com).
 
