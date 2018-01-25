@@ -1,6 +1,6 @@
 #Index
 
-This is an index of past and current open source projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on helping skilled data scientists get noticed by Amazon, Google, Facebook, Apple, and Microsoft. To give you guys a free gift for checking me out here however I have made all of my courses on Teachable free, including the deep learning on the Amazon Web Services cloud course and the real estate feedforward neural network example that used real Vermont/New Hampshire data to predict closing prices with stunning accuracy: [SuperiorCourses.Teachable.com](http://superiorcourses.teachable.com).
+This is an index of past and current open source projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on helping independent consultants net $250k by negotiating higher billing rates. To give you guys a free gift for checking me out here however I have made all of my courses on Teachable free, including the deep learning on the Amazon Web Services cloud course and the real estate feedforward neural network example that used real Vermont/New Hampshire data to predict closing prices with stunning accuracy: [SuperiorCourses.Teachable.com](http://superiorcourses.teachable.com).
 
 **alive**: in development  
 **finished**: project goals met, implies usability & death  
@@ -11,7 +11,7 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [Connect with Sam Linkedin.com/in/samputnam](https://linkedin.com/in/samputnam) | Entrepreneurship | Digital Marketing | September 2017 | alive | months |
+| [Connect with Sam Linkedin.com/in/samhopkinsputnam](https://linkedin.com/in/samhopkinsputnam) | Entrepreneurship | Digital Marketing and Sales for Independent Consultants | September 2017 | alive | months |
 | [Artificial Intelligence Mastery](https://ArtificialIntelligenceMastery.com) | making YOU awesome at AI | Machine Learning, Deep Learning, and AI  | August 2017 | dead | a month |
 | [Industry-specific Deep Learning Interviews and Walkthroughs](http://enterprisedeeplearning.github.io) | Hacker News | Interview with Snips.ai on ASR & NLU with Kaldi and TensorFlow  | July 2017 | dead | a day |
 | [Feedforward Neural Network in TensorFlow](https://github.com/enterprisedeeplearning/housing-prices-wide-and-deep) | consulting proposal/amazon cambridge demo | Deep Learning with Regression and One Hot Encoding  | July 2017 | dead | a week |
