@@ -11,7 +11,7 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [View new training](http://samputnam.com/training) | Entrepreneurship | Digital Marketing and Sales for Independent Consultants | September 2017 | alive | months |
+| [View new training](http://samputnam.com/training) | many | Digital Marketing and Sales for Independent Consultants | September 2017 | alive | months |
 | [Artificial Intelligence Mastery](https://ArtificialIntelligenceMastery.com) | making YOU awesome at AI | Machine Learning, Deep Learning, and AI  | August 2017 | dead | a month |
 | [Industry-specific Deep Learning Interviews and Walkthroughs](http://enterprisedeeplearning.github.io) | Hacker News | Interview with Snips.ai on ASR & NLU with Kaldi and TensorFlow  | July 2017 | dead | a day |
 | [Feedforward Neural Network in TensorFlow](https://github.com/enterprisedeeplearning/housing-prices-wide-and-deep) | consulting proposal/amazon cambridge demo | Deep Learning with Regression and One Hot Encoding  | July 2017 | dead | a week |
