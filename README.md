@@ -12,7 +12,6 @@ This is an index of past and current open source projects, ordered by last subst
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
 | [How We Give An Online Seminar Every Hour Of The Day On Every Single Day Of The Year](https://github.com/SamPutnam/Online-Seminar-Now/blob/master/README.md) | many | Online Seminar Now | October 2018 | dead | months |
-| [View Details: How Facebook Uses Deep Neural Networks / Deep Learning To Pocket $39B[Live]](https://www.eventbrite.com/e/how-facebook-uses-deep-neural-networks-deep-learning-to-pocket-39blive-tickets-46573348138) | many | Lookalikes By "LTV" and Customer Matching | October 2018 | dead | months |
 | [6 or 8 Week Program Selling To Consumers (Even B2B Is Actually P2P)](https://github.com/SamPutnam/Inside-The-Product/blob/master/README.md) | many | How To Increase Your Engineering Prices | September 2018 | alive | months |
 | [There Are No Top Of Funnel Constraints](https://github.com/SamPutnam/Zero-Top-Of-Funnel-Constraints/blob/master/README.md) | many | Team of SDRs On Autopilot | August 2018 | alive | months |
 | [View Details: How Facebook Uses Deep Neural Networks / Deep Learning To Pocket $39B[Live]](https://www.eventbrite.com/e/how-facebook-uses-deep-neural-networks-deep-learning-to-pocket-39blive-tickets-46573348138) | many | Lookalikes By Purported LTV And Customer Matching | July 2018 | dead | months |
