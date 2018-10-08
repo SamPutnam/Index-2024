@@ -11,7 +11,20 @@ This is an index of past and current open source projects, ordered by last subst
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [View new training](http://samputnam.com/training) | many | Digital Marketing and Sales for Independent Consultants | September 2017 | alive | months |
+| [View new training]() | many | Digital Marketing and Sales for Independent Consultants | October 2018 | alive | months |
+| [View new training]() | many | Digital Marketing and Sales for Independent Consultants | September 2018 | alive | months |
+| [View new training]() | many | Digital Marketing and Sales for Independent Consultants | August 2018 | alive | months |
+| [View new training]() | many | Digital Marketing and Sales for Independent Consultants | July 2018 | alive | months |
+| [How We Give An Online Seminar Every Hour Of The Day On Every Single Day Of The Year](https://github.com/SamPutnam/Online-Seminar-Now/blob/master/README.md) | many | Online Seminar Now | June 2018 | alive | months |
+| [Being A Team Of 50 With A Team Of 1](https://github.com/SamPutnam/Email-Marketing-Automation) | many | Email Marketing Automation | May 2018 | alive | months |
+| [Being Visible As A Public Figure](https://github.com/SamPutnam/Index-2018/blob/master/Collecting%20Opportunities%20On%20LinkedIn%20By%20Viewing%20Profiles%20With%20Profile%20Privacy%20Turned%20Off%20So%20That%20They%20View%20and%20Contact%20Us%20Within%20The%20Day.png) | many | Using LinkedIn - Basic Contact Key Decision Makers Strategy | April 2018 | alive | months |
+| [How We Get Clients (Never Before Released To The Public)](https://github.com/SamPutnam/How-We-Get-Clients) | many | How We Get Revenue | March 2018 | alive | months |
+| [Segment Paid Traffic By Channel So That Conversion Rate Is Maximized](https://github.com/SamPutnam/Dynamically-Show-Custom-Video-or-Image-To-Paid-Traffic-Channel-Based-On-Advertisement-Data-Passed) | many | When You Spend Your Own Money You Learn To Make It Go Far | February 2018 | dead | months |
+| [Build An IT and Software Consultants Revenue Machine](https://github.com/SamPutnam/Personalized-Direct-Outreach) | many | Mass Personalization at Scale | Janurary 2018 | dead | months |
+| [Engineering Opps](https://github.com/SamPutnam/Public-Opps/blob/master/README.md) | many | High Paying Opps for Engineers | December 2017 | dead | months |
+| [Rethink Your Direct Marketing](https://superiorcourses.teachable.com/p/get-1-000-emails-in-30-days) | many | get a lot of customers for your product, very fast | November 2017 | dead | days |
+| [Deep Learning on the Cloud](https://superiorcourses.teachable.com/p/deep-learning-on-the-cloud) | many | ec2 | October 2017 | alive | days |
+| [Beginner iPhone](https://superiorcourses.teachable.com/p/beginner-iphone) | many | Beginniner iPhone | how to build your own app without an engineer | dead | days |
 | [Artificial Intelligence Mastery](https://ArtificialIntelligenceMastery.com) | making YOU awesome at AI | Machine Learning, Deep Learning, and AI  | August 2017 | dead | a month |
 | [Industry-specific Deep Learning Interviews and Walkthroughs](http://enterprisedeeplearning.github.io) | Hacker News | Interview with Snips.ai on ASR & NLU with Kaldi and TensorFlow  | July 2017 | dead | a day |
 | [Feedforward Neural Network in TensorFlow](https://github.com/enterprisedeeplearning/housing-prices-wide-and-deep) | consulting proposal/amazon cambridge demo | Deep Learning with Regression and One Hot Encoding  | July 2017 | dead | a week |
