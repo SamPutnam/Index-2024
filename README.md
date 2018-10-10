@@ -25,7 +25,7 @@ This is an index of past and current open source projects, ordered by last subst
 | [Engineering Opps](https://github.com/SamPutnam/Public-Opps/blob/master/README.md) | many | High Paying Opps for Engineers | December 2017 | dead | weeks |
 | [Rethink Your Direct Marketing](https://superiorcourses.teachable.com/p/get-1-000-emails-in-30-days) | many | get a lot of customers for your product, very fast | November 2017 | dead | a month |
 | [Deep Learning on the Cloud](https://superiorcourses.teachable.com/p/deep-learning-on-the-cloud) | many | ec2 | October 2017 | alive | a month |
-| [Beginner iPhone](https://superiorcourses.teachable.com/p/beginner-iphone) | many | Beginniner iPhone | how to build your own app without an engineer | dead | a month |
+| [Beginner iPhone](https://superiorcourses.teachable.com/p/beginner-iphone) | many | how to build your own app without an engineer | September 2017 | dead | a month |
 | [Artificial Intelligence Mastery](https://ArtificialIntelligenceMastery.com) | making YOU awesome at AI | Machine Learning, Deep Learning, and AI  | August 2017 | dead | a month |
 | [Industry-specific Deep Learning Interviews and Walkthroughs](http://enterprisedeeplearning.github.io) | Hacker News | Interview with Snips.ai on ASR & NLU with Kaldi and TensorFlow  | July 2017 | dead | a day |
 | [Feedforward Neural Network in TensorFlow](https://github.com/enterprisedeeplearning/housing-prices-wide-and-deep) | consulting proposal/amazon cambridge demo | Deep Learning with Regression and One Hot Encoding  | July 2017 | dead | a week |
