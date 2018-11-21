@@ -70,11 +70,9 @@ This is an index of past and current open source projects, ordered by last subst
 | [Forecasting-Cost-Classification](https://github.com/SamPutnam/Forecasting-Cost-Classification) | national renewable energy laboratory | optimization | 2014 | dead | months |
 | [Multi-Level-Scheduling-State-Machine](https://github.com/SamPutnam/Multi-Level-Scheduling-State-Machine) | consumer privacy | control | 2013 | dead | months |
 
+______________________________________________________________________________________________________________________________
 
-| ---- | --------- | ---- | -------------- | ---- |---- || ---- | --------- | ---- | -------------- | ---- |---- |
-| ---- | --------- | ---- | -------------- | ---- |---- || ---- | --------- | ---- | -------------- | ---- |---- |
-
-# Index - 2017
+- ARTIFICIAL INTELLIGENCE -
 
 # The Terrible Deep Learning List
 15 working open source deep learning models that programmers interested in deep learning can download and run first try without learning any of the math. Seeing these examples come to life for the first time feels like magic. I want other programmers to experience this wonder. This is a *terrible* deep learning list. No attempt has been made to "cover all the bases" of the field of deep learning.
