@@ -72,7 +72,7 @@ This is an index of past and current open source projects, ordered by last subst
 
 ______________________________________________________________________________________________________________________________
 
-# ARTIFICIAL INTELLIGENCE RESEARCH
+# 2017 | Artificial Intelligence | M&A Diligence
 
 # The Terrible Deep Learning List
 15 working open source deep learning models that programmers interested in deep learning can download and run first try without learning any of the math. Seeing these examples come to life for the first time feels like magic. I want other programmers to experience this wonder. This is a *terrible* deep learning list. No attempt has been made to "cover all the bases" of the field of deep learning.
