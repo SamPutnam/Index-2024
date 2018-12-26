@@ -1,6 +1,28 @@
 # Index - 2018
 
-This is an index of past and current open source projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on helping people start & grow hyper profitable IT/Software Consulting Firms.
+AI Bio:
+
+Sam worked at the Dartmouth Center for Imaging Medicine, the National Renewable Energy Laboratory, and the Lab for Cognition and Control in Complex Systems. 
+
+Sam is a contributor to the TensorFlow machine learning project and a member of the Machine Learning Society.
+
+Performance Marketing Bio:
+
+Why is a 26-year-old electrical engineer who taught machine learning at MIT at an 'affiliate conf'?
+
+Because it’s not 2005 anymore.
+
+FB Q3 spend: $100k - $300k.
+
+Daily spend on one account: 1,000 to 3,000.
+
+In solar, [redacted], [redacted] and [redacted] lead gen.
+
+If you are self-employed, please schedule a time to share and leverage sound results at ASW: engineeringsoftware.com/schedule
+
+Sam Putnam
+
+This is an index of past and current open source projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on [...]
 
 **alive**: in development  
 **finished**: project goals met, implies usability & death  
