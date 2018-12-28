@@ -18,11 +18,11 @@ Daily spend on one account: 1,000 to 3,000.
 
 In solar, [redacted], [redacted] and [redacted] lead gen.
 
-If you are self-employed, please schedule a time to share and leverage sound results at ASW: engineeringsoftware.com/schedule
+If you are self-employed, please schedule a time to share and leverage well founded results at ASW: 1on1-with-sam-putnam-at-affiliate-summit-west.engineeringsoftware.com/theputnamcompany
 
 Sam Putnam
 
-This is an index of past and current open source projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on [...]
+This is an index of past and current *open source* projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on [...]
 
 **alive**: in development  
 **finished**: project goals met, implies usability & death  
