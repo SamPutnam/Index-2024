@@ -1,12 +1,12 @@
 # Index - 2018
 
-AI Bio:
+*AI Bio*:
 
 Sam worked at the Dartmouth Center for Imaging Medicine, the National Renewable Energy Laboratory, and the Lab for Cognition and Control in Complex Systems. 
 
 Sam is a contributor to the TensorFlow machine learning project and a member of the Machine Learning Society.
 
-Performance Marketing Bio:
+*Performance Marketing Bio*:
 
 Why is a 26-year-old electrical engineer who taught machine learning at MIT at an 'affiliate conf'?
 
