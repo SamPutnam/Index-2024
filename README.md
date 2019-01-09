@@ -16,7 +16,7 @@ FB Q3 spend: $100k - $300k.
 
 Daily spend on one account: 1,000 to 3,000.
 
-In solar, [redacted], [redacted] and [redacted] lead gen.
+In [redacted], [redacted], [redacted] and [redacted] lead gen.
 
 If you are self-employed, please schedule a time to share and leverage collective results at ASW: 1on1-with-sam-putnam-at-affiliate-summit-west.engineeringsoftware.com/theputnamcompany
 
