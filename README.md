@@ -1,5 +1,9 @@
 # Index - 2018
 
+*note* 
+
+Hey - Send me a note if you would have résumé interest in "Got 20 (let's go for double the 10) installs for preventative earthquake app I published on the Google Play store using Snap (upgrade from 'using Fb', which is not necessarily as interesting in this once in a half decade performance marketing moment in time to some startups (see below) that you might apply for (presumably as a swe but if small startup you may have to touch 'growth') due to the very low CPM on Snap whereas Facebook inventory is now competitive. The next Dollar Shave Club (i.e. one of the next ,,, dollar exit direct to customer brands, or, conceivably, the next ,,, app is going to be built on Snap ads (Snap version of Wish story, Wish story was Facebook version of Amazon's Adwords story), personally think next Wish will be Alexa native so my hypothesis is wouldn't grow using Snap but rather ads on voice but maybe that's 3 yrs out, so, for 6 mons out it's Snap. Send me a note, if would like to share in the above yc-ifying of your resume (plus productive and 'for a good cause' procrastination for me (worrying about earthquakes is a good thing, i think)) at DEN within next week? Cheers, Sam (back from lv)
+
 *AI Bio*:
 
 Sam worked at the Dartmouth Center for Imaging Medicine, the National Renewable Energy Laboratory, and the Lab for Cognition and Control in Complex Systems. 
