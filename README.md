@@ -1,29 +1,5 @@
 # Index - 2018
 
-*note* 
-
-hey - Send me a note if you would have résumé interest in "got 20 (let's go for double the 10) installs for preventative earthquake app I published on the Google Play store using Snap (upgrade from 'via Fb', which is not necessarily as interesting rn to startups (see below) that you might apply for (presumably as a swe but if small startup may invite you to 'pull levers on growth') due to very low CPM on Snap whereas Facebook inventory is now competitive. Next Dollar Shave Club (i.e. one of the next ,,, dollar exit direct to customer brands, or, conceivably, the next ,,, app is going to be built on Snap ads (1/20 cost of fb rn) (Snap version of Wish story, Wish story was Facebook version of Amazon's Adwords story), personally think next Wish will be Alexa native so hypothesis is wouldn't grow that using Snap but rather ads on voice (know that sounds obvious but takes more than even one heavily weighted variable like the platform app is on to know where they'll buy users from) but maybe voice one will b 3 yrs out, so, for 6 mons out still Snap. Send me a note, if would like to share in the above yc-ifying of your resume (+ it's productive/'for a good cause' procrastination for me (helping people direct their worrying towards earthquakes is a good thing... i think)) at DEN? Going to be working around Hanover area 'til next week. cheers, Sam p. (back from lv and fully reformed).
-
-*AI Bio*:
-
-Sam worked at the Dartmouth Center for Imaging Medicine, the National Renewable Energy Laboratory, and the Lab for Cognition and Control in Complex Systems. 
-
-Sam is a contributor to the TensorFlow machine learning project and a member of the Machine Learning Society.
-
-*Performance Marketing Bio*:
-
-Why is a 26-year-old electrical engineer who taught machine learning at MIT at an 'affiliate conf'?
-
-Because it’s not 2005 anymore.
-
-FB Q3 spend: $100k - $300k.
-
-Daily spend on one account: 1,000 to 3,000.
-
-In [redacted], [redacted], [redacted] and [redacted] lead gen.
-
-If you are self-employed, please schedule a time to share and leverage collective results at ASW: 1on1-with-sam-putnam-at-affiliate-summit-west.engineeringsoftware.com/theputnamcompany
-
 Sam Putnam
 
 This is an index of past and current *open source* projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on [...]
