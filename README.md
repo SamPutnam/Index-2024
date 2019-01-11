@@ -13,7 +13,7 @@ This is an index of past and current *open source* projects, ordered by last sub
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [How To Make $100k/month Living Alone In The Woods (Without Moving To A Bold New City)](https://github.com/SamPutnam/Index-2018/blob/master/Note) | many | Paid Traffic Campaign | January 2019 | dead | a day |
+| [How To Make $100k/month Living Alone In The Woods (Without Moving To A Bold New City)](https://github.com/SamPutnam/Index-2018/blob/master/Note) | many | Bringing Hope To A Brave New World | January 2019 | dead | a day |
 | [Biography Of A Performance Marketing Leader](https://github.com/SamPutnam/Index-2018/blob/master/Performance%20Marketing%20Bio) | many | Light Only Exists In Light of Dark | December 2018 | dead | a day |
 | [Biography Of An Artificial Intelligence Leader](https://github.com/SamPutnam/Index-2018/blob/master/AI%20Bio) | many | Leadership Not Management | November 2018 | dead | a day |
 | [How We Got 12 $15 App Installs From Paid US Cold Traffic in 12 Hours For Our App That We Published On Google Play During HackDartmouth](https://devpost.com/software/quakereport-k30jis) | many | Paid Traffic Campaign | October 2018 | dead | a day |
