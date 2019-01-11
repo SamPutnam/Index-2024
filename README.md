@@ -13,6 +13,7 @@ This is an index of past and current *open source* projects, ordered by last sub
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [The Death Of Computer Science: What The Top 1% Of Real Engineers Know That You Don't)](https://engineeringsoftware.com) | many | Bringing Hope To A Brave New World | January 2019 | dead | a day |
 | [How To Make $100k/month Living Alone In The Woods (Without Moving To A Bold New City)](https://github.com/SamPutnam/Index-2018/blob/master/Note) | many | Bringing Hope To A Brave New World | January 2019 | dead | a day |
 | [Biography Of A Performance Marketing Leader](https://github.com/SamPutnam/Index-2018/blob/master/Performance%20Marketing%20Bio) | many | Light Only Exists In Light of Dark | December 2018 | dead | a day |
 | [Biography Of An Artificial Intelligence Leader](https://github.com/SamPutnam/Index-2018/blob/master/AI%20Bio) | many | Leadership Not Management | November 2018 | dead | a day |
