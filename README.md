@@ -2,7 +2,7 @@
 
 Sam Putnam
 
-This is an index of past and current *open source* projects, ordered by last substantive commit. All items were updated to dead as of November 2017 - Focus is now on building the next billion dollar consumer app.
+This is an index of past and current *open source* projects, ordered by last substantive commit. All items were updated to dead as of November 2017.
 
 **alive**: in development  
 **finished**: project goals met, implies usability & death  
