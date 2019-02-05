@@ -13,6 +13,7 @@ This is an index of past and current *open source* projects, ordered by last sub
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [How Millions Are Made On The Hottest Ad Platform On The Planet](https://snapadspy.com) | many | Using Shopify To Sell Recurring Subscriptions | February 2019 | dead | three days |
 | [This Celebrity Leak Is Not Indexed By Google And All Expert Secret Names Are Redacted](https://learnbaby.com) | many | Next DTC Consumer Startup Will Unlock A Massive Market | February 2019 | dead | three days |
 | [The Death Of Computer Science: What The Top 1% Of Real Engineers Know That You Don't](https://engineeringsoftware.com) | many | Career Security and Hope In Building Something People Love | January 2019 | dead | a day |
 | [How To Make $100k/month Living Alone In The Woods (Without Moving To A Bold New City)](https://github.com/SamPutnam/Index-2018/blob/master/Note) | many | Bringing Hope To A Brave New World | January 2019 | dead | a day |
