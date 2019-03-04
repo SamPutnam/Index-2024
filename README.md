@@ -2,7 +2,7 @@
 
 Sam Putnam
 
-This is an index of past and current *open source* projects, ordered by last substantive commit. All items were updated to dead as of November 2017.
+This is an index of past and current *open source* projects, ordered by last substantive commit. All items were updated to dead as of November 2017. Web archive should turn up what you're looking for.
 
 Everythig on this list was built by me.
 
