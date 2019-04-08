@@ -15,6 +15,8 @@ Everything on this list was built by me.
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [When You Spend $60K/Day On Snapchat, Pinterest, and Facebook And 100K Unique People See A Different Version Of Your Advertorial](https://vimeo.com/322137372) | many | Using Shopify To Sell Recurring Subscriptions | April 2019 | dead | three days |
+| [Where Scale Meets Massive Need - Solving Real Problems For America's Heartland By Partnering With Coastal Ad Agencies](https://vimeo.com/322137348) | many | Doubling Down On AdSense Once Again and Scaling Taboola On Publishers From CNN to E-Sports Niche Sites | March 2019 | dead | three days |
 | [How Millions Are Made On The Hottest Ad Platform On The Planet](https://snapadspy.com) | many | Using Shopify To Sell Recurring Subscriptions | February 2019 | dead | three days |
 | [This Celebrity Leak Is Not Indexed By Google And All Expert Secret Names Are Redacted](https://learnbaby.com) | many | Next DTC Consumer Startup Will Unlock A Massive Market | February 2019 | dead | three days |
 | [The Death Of Computer Science: What The Top 1% Of Real Engineers Know That You Don't](https://engineeringsoftware.com) | many | Career Security and Hope In Building Something People Love | January 2019 | dead | a day |
