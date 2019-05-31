@@ -15,13 +15,14 @@ Everything on this list was built by me.
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [You Call It Finance - I Call It Providing High Interest Loans To People In Debt For A Living](https://clyp.it/user/2vobqh1o) | many | Music | May 2019 | dead | months |
 | [When You Spend $60K/Day On Snapchat, Pinterest, and Facebook, There Are 100K Unique Combinations Of Your Advertorial, And You Save $5K On Testing](https://vimeo.com/322137372) | many | Engineering | April 2019 | dead | three days |
 | [Where Scale Meets Massive Need - Solving Real Problems For America's Heartland By Partnering With Coastal Ad Agencies](https://vimeo.com/322137348) | many | Doubling Down On AdSense Once Again and Scaling Taboola On Publishers From CNN to E-Sports Niche Sites | March 2019 | dead | three days |
 | [How Millions Are Made On The Hottest Ad Platform On The Planet](https://snapadspy.com) | many | Using Shopify To Sell Recurring Subscriptions | February 2019 | dead | three days |
 | [This Celebrity Leak Is Not Indexed By Google And All Expert Secret Names Are Redacted](https://learnbaby.com) | many | Next DTC Consumer Startup Will Unlock A Massive Market | February 2019 | dead | three days |
 | [The Death Of Computer Science: What The Top 1% Of Real Engineers Know That You Don't](https://engineeringsoftware.com) | many | Career Security and Hope In Building Something People Love | January 2019 | dead | a day |
 | [How To Make $100k/month Living Alone In The Woods (Without Moving To A Bold New City)](https://github.com/SamPutnam/Index-2018/blob/master/Note) | many | Bringing Hope To A Brave New World | January 2019 | dead | a day |
-| [Biography Of A Performance Marketing Leader](https://github.com/SamPutnam/Index-2018/blob/master/Performance%20Marketing%20Bio) | many | Light Only Exists In Light of Dark | December 2018 | dead | a day |
+| [Work At Home Biography Of A Performance Marketing Leader](https://github.com/SamPutnam/Index-2018/blob/master/Performance%20Marketing%20Bio) | many | Light Only Exists In Light of Dark | December 2018 | dead | a day |
 | [Biography Of An Artificial Intelligence Leader](https://github.com/SamPutnam/Index-2018/blob/master/AI%20Bio) | many | Leadership Not Management | November 2018 | dead | a day |
 | [How We Got 12 $15 App Installs From Paid US Cold Traffic in 12 Hours For Our App That We Published On Google Play During HackDartmouth](https://devpost.com/software/quakereport-k30jis) | many | Paid Traffic Campaign | October 2018 | dead | a day |
 | [How I Give An Online Seminar Every Hour Of The Day On Every Single Day Of The Year](https://github.com/SamPutnam/Online-Seminar-Now/blob/master/README.md) | many | Online Seminar Now | October 2018 | dead | weeks |
