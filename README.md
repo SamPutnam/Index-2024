@@ -15,8 +15,8 @@ Everything on this list was built by me.
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [Throwback Thursday 2](https://www.youtube.com/watch?v=0mCf5n9qeEA) | friends | Sam Putnam in College  | July 2019 | finished | a day |
-| [Throwback Thursday 1](https://www.youtube.com/watch?reload=9&v=8zXLuoKX6bA) | friends | Sam Putnam in High School  | July 2019 | finished | a few days |
+| [Throwback Thursday 2 - Sam in College](https://www.youtube.com/watch?v=0mCf5n9qeEA) | friends | Sam Putnam in College  | July 2019 | finished | a day |
+| [Throwback Thursday 1 - Sam in High School](https://www.youtube.com/watch?reload=9&v=8zXLuoKX6bA) | friends | Sam Putnam in High School  | July 2019 | finished | a few days |
 | [A Beautiful Home For The Heart and the Head](https://www.youtube.com/watch?v=zRlW_ViACw4) | local community | Emotional Piano Music For Advertisements  | June 2019 | alive | a month |
 | ["You Call It Finance - I Call It Providing High Interest Loans To People In Debt For A Living," - My Friend Who Got Her Degree in Underwater Basket Weaving](https://clyp.it/user/2vobqh1o) | extended family | Music | May 2019 | finished | month |
 | [When You Spend $60K/Day On Snapchat, Pinterest, and Facebook, There Are 100K Unique Combinations Of Your Advertorial, And You Save $5K On Testing](https://vimeo.com/322137372) | web developers | Engineering | April 2019 | alive | three days |
