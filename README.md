@@ -13,6 +13,10 @@ This is an index of past and current *open source* projects, ordered by last sub
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [Wordpress Content Management System: Using JavaScript Templating Languages That Are Friendly with Googlebot in Google Search Console](https://raw.githubusercontent.com/SamPutnam/Index-2019/master/wordpress%2C%20JS%2C%20and%20googlebot.txt) | Brands | Getting JavaScript Pages Indexed by Google  | October 2019 | finished | a day |
+| [Scalable Wordpress for Writers: Checking Articles Against Previous Articles and Making Accurate Bulk Edits](https://raw.githubusercontent.com/SamPutnam/Index-2019/master/scalable%20wordpress) | Writers | Bulk Editing Wordpress Content and Updating Content for Brand Control  | September 2019 | finished | a few days |
+| [Summer Throwback 2 - Sam Putnam in College](https://www.youtube.com/watch?v=0mCf5n9qeEA) | friends - skiing | Sam Putnam in College  | August 2019 | finished | a day |
+| [Summer Throwback 1 - Sam Putnam in High School](https://www.youtube.com/watch?reload=9&v=8zXLuoKX6bA) | friends - pick up soccer game | Sam Putnam in High School  | July 2019 | finished | a few days |
 | [Summer Throwback 2 - Sam Putnam in College](https://www.youtube.com/watch?v=0mCf5n9qeEA) | friends - skiing | Sam Putnam in College  | August 2019 | finished | a day |
 | [Summer Throwback 1 - Sam Putnam in High School](https://www.youtube.com/watch?reload=9&v=8zXLuoKX6bA) | friends - pick up soccer game | Sam Putnam in High School  | July 2019 | finished | a few days |
 | [A Beautiful Home For The Heart and the Head](https://www.youtube.com/watch?v=zRlW_ViACw4) | local community - emotional piano music | Music For Advertisements  | June 2019 | alive | a month |
