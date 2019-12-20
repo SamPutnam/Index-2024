@@ -13,6 +13,8 @@ This is an index of past and current *open source* projects, ordered by last sub
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
+| [Collaborate and Compete](https://raw.githubusercontent.com/SamPutnam/Index-2019/master/really-good) | Brands | Giving More Accurate Details On How People Are Using The Internet| December 2019 | alive | a day |
+| [How To Build A Brand That Is Still Relevant Today Keeping Tomorrow In Mind](https://raw.githubusercontent.com/SamPutnam/Index-2019/master/good) | Brands | Helping Brands Understand Who Is Doing Things Well Online  | November 2019 | finished | a day |
 | [Wordpress Content Management System: Using JavaScript Templating Languages That Are Friendly with Googlebot in Google Search Console](https://raw.githubusercontent.com/SamPutnam/Index-2019/master/wordpress%2C%20JS%2C%20and%20googlebot.txt) | Brands | Getting JavaScript Pages Indexed by Google  | October 2019 | finished | a day |
 | [Scalable Wordpress for Writers: Checking Articles Against Previous Articles and Making Accurate Bulk Edits](https://raw.githubusercontent.com/SamPutnam/Index-2019/master/scalable%20wordpress) | Writers | Bulk Editing Wordpress Content and Updating Content for Brand Control  | September 2019 | finished | a few days |
 | [Summer Throwback 2 - Sam Putnam in College](https://www.youtube.com/watch?v=0mCf5n9qeEA) | friends - skiing | Sam Putnam in College  | August 2019 | finished | a day |
