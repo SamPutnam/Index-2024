@@ -88,7 +88,7 @@ This is an index of past and current *open source* projects, ordered by last sub
 | [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | January 2016 | dead | usable |
 | [Data-Center-Distributed-Optimal-Control](https://github.com/SamPutnam/Data-Center-Distributed-Optimal-Control) | google | reinforcement learning | 2015 | alive | months |
 
-Before:
+Before Google project:
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
