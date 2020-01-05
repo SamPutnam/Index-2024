@@ -90,6 +90,8 @@ This is an index of past and current *open source* projects, ordered by last sub
 
 Before:
 
+| name | client | field | last code commit | status | time in development | 
+| ---- | --------- | ---- | -------------- | ---- |---- |
 | [Forecasting-Cost-Classification](https://github.com/SamPutnam/Forecasting-Cost-Classification) | national renewable energy laboratory | optimization | 2014 | dead | months |
 | [Multi-Level-Scheduling-State-Machine](https://github.com/SamPutnam/Multi-Level-Scheduling-State-Machine) | consumer privacy | control | 2013 | finished | months |
 
