@@ -86,6 +86,17 @@ This is an index of past and current *open source* projects, ordered by last sub
 | [MapKit-Framework-Current-Location](https://github.com/Dartmouth-entrepreneurial-network/MapKit-Current-Location) | nsf | mobile | May 2016 | usable | days |
 | [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | dartmouth forum | mobile | April 2016 | finished | weeks |
 | [Name-Static](https://github.com/SamPutnam/Name-Static) | self | web | March 2016 | finished | a week |
+| [](https://) | self | web | November 2015 | dead | month |
+| [](https://) | self | web | October 2015 | dead | month |
+| [](https://) | self | web | September 2015 | dead | month |
+| [](https://) | self | web | Auguest 2015 | dead | month |
+| [](https://) | self | web | July 2015 | dead | month |
+| [](https://) | self | web | June 2015 | dead | month |
+| [](https://) | self | web | May 2015 | dead | month |
+| [](https://) | self | web | April 2015 | dead | month |
+| [Email blasts yuck](https://linkedin.com/in/realsamputnam) | self | web | March 2015 | dead | month |
+| [Topline melody](https://clyp.it/user/2vobqh1o) | more edm | bought equipment that zedd and avicii use what a waste of money didnt even make a full song yet obsessed with the melody knew production side didnt matter nearly as much so punted on it but wanted to be able to do everything myself so bought it way way ahead of where i was bad decision| February 2015 | dead | month |
+| [Hookwriting](https://www.youtube.com/channel/UCHvYwS3W-UINfYl4BS76FIQ) | edm | bought music equipment that cheiron uses midi keyboard no more apps for a while | January 2015 | dead | month |
 | [Instagram](https://github.com/SamPutnam) | Instagram infrastructure | sharding, aws, load balancing requirements to host tens of millions of concurrent users absolutely tragically ahesad of where i am tf was i thinking but followed interest idk | December 2014 | dead | month |
 | [Know it's a bad idea if your friends and family immediately support it](https://twitter.com/putnamcompany) | app idea is titled demoracy allow citizens to vote on bills in real time all my friends and family loved it, dumbest f---king idea so hard to build and bring to reality not continuing it | did these app wireframes and keynote diagrams, sketch (before figma), with great friend | 2014 | alive | months |
 | [Snapchat verison 2.0 thing](https://youtube.com/user/sammyputnam) | app idea is snapchat for only romantic and beautiful stuff yikes common sense idea that is actually smart but yikes to have this attached to my name so no but learned abt vs and pe this time | come up with braoder appeal app coding is hard wtf how come my app doesnt look like instagrams which has thousand people working on it (been bought by facebook for long at this point i was so far behind) | October 2014 | dead | month |
