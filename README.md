@@ -13,7 +13,7 @@ This is an index of past and current *open source* projects, ordered by last sub
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [TikTok](https://tiktok.com/@samputnam) | This is so fun and helpful to people | 0 to 100k in 34 days, add 100k more one week later | April 2020 | alive | a month |
+| [TikTok](https://tiktok.com/@samputnam) | This is so fun and helpful to people | 0 to 100k in 34 days, and 100k more one week later | April 2020 | alive | a month |
 | [Existential crisis brought on by coronavirus](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) | yeah | I mean there were many factors and I was planning on making videos on TikTok anyway but not so early| March 2020 | alive | days |
 | [Small Business Loan Marketing](https://dailyfunder.com) | this is on the border of helpful and harmful | but honestly someone has to give loans that's how our economy works| February 2020 | alive | months |
 | [Credit Card Marketing](https://cardresearch.com) | $50m/yr opportunity if you can deal with running boring ads every day | look up nextadvisor| January 2020 | alive | 9 months |
@@ -88,7 +88,9 @@ This is an index of past and current *open source* projects, ordered by last sub
 | [Name-Static](https://github.com/SamPutnam/Name-Static) | self | web | March 2016 | finished | a week |
 | [Short-Programs-and-Other-Languages](https://github.com/SamPutnam/Short-Programs-and-Other-Languages) | self | wiki | February 2016 | dead | days |
 | [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | January 2016 | dead | usable |
-| [Data-Center-Distributed-Optimal-Control](https://github.com/SamPutnam/Data-Center-Distributed-Optimal-Control) | google | reinforcement learning | 2015 | alive | months |
+| [Facebook meltdown/amazing video project depending on whos telling hte story](https://www.facebook.com/sam.putnam.personal) | shared personal life secrets I had on Facebook with Facebook Friends turned out no one really cared and they thought it was cool what I was doing | wigns for youth | September 2014 | dead | month |
+| [Fun](https://www.google.com/search?q=matthew+hussey&oq=matthew+hussey) | be nice to women duh | matthew hussey | July 2014 | dead | month |
+| [Data-Center-Distributed-Optimal-Control](https://github.com/SamPutnam/Data-Center-Distributed-Optimal-Control) | google | reinforcement learning | 2014 | alive | months |
 
 Before Google project:
 
