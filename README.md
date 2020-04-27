@@ -92,9 +92,9 @@ This is an index of past and current *open source* projects, ordered by last sub
 | [](https://) | self | web | Auguest 2015 | dead | month |
 | [](https://) | self | web | July 2015 | dead | month |
 | [](https://) | self | web | June 2015 | dead | month |
-| [](https://) | self | web | May 2015 | dead | month |
-| [](https://) | self | web | April 2015 | dead | month |
-| [Email blasts yuck](https://linkedin.com/in/realsamputnam) | self | web | March 2015 | dead | month |
+| [Dan Wilson songwriting mantra guy who wrote closing time and someone like you sung by adele](https://www.youtube.com/channel/UClbmsxGyRpZLp75uD7Fax2w) | self | theory just add artists as topline like they are a plulgin ;) | May 2015 | dead | month |
+| [Organic viral growth word of mouth](https://www.meetup.com/VTCode/events/240556706/) | banned from meetup also linkedin | grew email list to 10000 in one month personal challenge cut so many corners tho what a shame ;) | April 2015 | dead | month |
+| [Email blasts yuck](https://linkedin.com/in/realsamputnam) | linkedin ewww | grew linkedin to 20k connections/followers idk why addicitng also could change industry and so got contacted asking me to refer title insurance bc i was in real estate industry with 20k um sure but no | March 2015 | dead | month |
 | [Topline melody](https://clyp.it/user/2vobqh1o) | more edm | bought equipment that zedd and avicii use what a waste of money didnt even make a full song yet obsessed with the melody knew production side didnt matter nearly as much so punted on it but wanted to be able to do everything myself so bought it way way ahead of where i was bad decision| February 2015 | dead | month |
 | [Hookwriting](https://www.youtube.com/channel/UCHvYwS3W-UINfYl4BS76FIQ) | edm | bought music equipment that cheiron uses midi keyboard no more apps for a while | January 2015 | dead | month |
 | [Instagram](https://github.com/SamPutnam) | Instagram infrastructure | sharding, aws, load balancing requirements to host tens of millions of concurrent users absolutely tragically ahesad of where i am tf was i thinking but followed interest idk | December 2014 | dead | month |
