@@ -87,7 +87,9 @@ This is an index of past and current *open source* projects, ordered by last sub
 | [AWS-or-Facebook-Login-Take-Photo-and-Play-Song](https://github.com/Dartmouth-entrepreneurial-network/AWS-or-Facebook-Login-Take-Photo-and-Play-Song) | dartmouth forum | mobile | April 2016 | finished | weeks |
 | [Name-Static](https://github.com/SamPutnam/Name-Static) | self | web | March 2016 | finished | a week |
 | [Short-Programs-and-Other-Languages](https://github.com/SamPutnam/Short-Programs-and-Other-Languages) | self | wiki | February 2016 | dead | days |
-| [Development-Design-Lander](https://github.com/SamPutnam/Development-Design-Lander) | digital marketing | web | January 2016 | dead | usable |
+
+| [Snapchat verison 2.0 thing](https://youtube.com/user/sammyputnam) | app idea is snapchat for only romantic and beautiful stuff yikes common sense idea that is actually smart but yikes to have this attached to my name so no but learned abt vs and pe this time | come up with braoder appeal app coding is hard wtf how come my app doesnt look like instagrams which has thousand people working on it (been bought by facebook for long at this point i was so far behind) | October 2014 | dead | month |
+| [App released on iOS](https://appadvice.com/app/wings-for-youth/1134972907) | made it an app | this actually didnt go on app store until a year plus later coding is hard and cant outsource if you want to win thats dumb instagram didnt outsource look at what happened to chase jarvis' app | September 2014 | dead | month |
 | [Facebook meltdown/amazing video project depending on whos telling hte story](https://www.facebook.com/sam.putnam.personal) | shared personal life secrets I had on Facebook with Facebook Friends turned out no one really cared and they thought it was cool what I was doing | wigns for youth | September 2014 | dead | month |
 | [Fun](https://www.google.com/search?q=matthew+hussey&oq=matthew+hussey) | be nice to women duh | matthew hussey | July 2014 | dead | month |
 | [Data-Center-Distributed-Optimal-Control](https://github.com/SamPutnam/Data-Center-Distributed-Optimal-Control) | google | reinforcement learning | 2014 | alive | months |
