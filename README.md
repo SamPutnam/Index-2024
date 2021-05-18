@@ -11,7 +11,7 @@ This is an index of past and current *open source* projects, ordered by last sub
 <br>
 <br>
 
-Disclaimer: This is me just messing around. Don't worry, I'm about as normal as you ;)
+Disclaimer: Just messing around.
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
