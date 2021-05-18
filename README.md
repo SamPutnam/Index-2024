@@ -11,6 +11,8 @@ This is an index of past and current *open source* projects, ordered by last sub
 <br>
 <br>
 
+Disclaimer: This is me just messing around. Don't worry, I'm about as normal as you ;)
+
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
 | [Why I'm NOT Investing In Dogecoin](https://www.youtube.com/watch?v=Xtuk7LsFN2E&t=57s) | I'm not going to invest in doge because unless i were trading it and i haven't checked because like i said i'm not in to the crypto scene but with bitcoin it trades 24 7 right so uh i imagine it's the same with doge i don't want to be trading a cryptocurrency that trades 24 7. first of all i wanted to stop being tradable at eight you know maybe open up in the morning like the normal market just to unplug you know maybe i am missing out on doge and bitcoin maybe i should be trading these um maybe but really honestly the right time to be have been trading bitcoin probably would have been like five years ago you know just about when the right time to start up a cryptocurrency exchange or be a market maker would have been probably five years ago at this point | Discord | May 2020 | alive | a month |
