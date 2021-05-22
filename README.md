@@ -11,7 +11,7 @@ This is an index of past and current *open source* projects, ordered by last sub
 <br>
 <br>
 
-Disclaimer: Just messing around.
+Disclaimer: Just messing around. For videos visit https://www.youtube.com/user/sammyputnam and for shorter videos visit https://tiktok.com/@samputnam.
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
@@ -76,8 +76,7 @@ Disclaimer: Just messing around.
 | [Natural-Language-Processing](https://www.kaggle.com/samdeeplearning/d/samdeeplearning/deepnlp/deep-natural-language-processing) | consulting | cloud notebook | February 2017 | usable | days |
 | [Deep-Learning-Consultant-Website](http://deeplearningconsultant.com) | consulting business development | web | February 2017 | finished | days |
 | [Unconditioned-Image-Generation-Google-DeepMind-paper-with-TensorFlow](https://medium.com/@SamPutnam/this-is-the-1st-deep-learning-zero-to-one-newsletter-this-one-is-called-image-generation-935bcaf0f37c) | google sandbox cambridge | Pixel-cnn - LSTM/CNN hybrid in TensorFlow | Feb 2017 | usable | days |
-| [Value-Iteration-Networks](https://
-.com/samdeeplearning/status/831943425331232774) | consulting | Deep CNN in TensorFlow | Feb 2017 | dead | days |
+| [Value-Iteration-Networks](https://.com/samdeeplearning/status/831943425331232774) | consulting | Deep CNN in TensorFlow | Feb 2017 | dead | days |
 | [Grid-Single-Page](https://github.com/SamPutnam/Grid-Single-Page) | consulting | web | January 2017 | usable | days |
 | [Deep-Reinforcement-Learning](https://twitter.com/samdeeplearning/status/831951216238276611) | contest | Deep Q CNN Learning | Jan 2017 | dead | days |
 | [Biaxial-Recurrent-Neural-Network](https://twitter.com/samdeeplearning/status/826895187867795456) | music | LSTM/CNN hybrid in Theano | Jan 2017 | finished | days |
