@@ -15,10 +15,10 @@ Disclaimer: Just messing around. For videos visit https://www.youtube.com/user/s
 
 | name | client | field | last code commit | status | time in development | 
 | ---- | --------- | ---- | -------------- | ---- |---- |
-| [im talking small cap short reports not tesla - the audience is maybe too narrow for seeking alpha to put out regular articles on as their trying to sell subscriptions to a lot of people not enrich a few thousand active short traders]() | you guys probably already know this but i had to look it up because i'm new at this:
-1) refrain from exact statements about financials which can be disproved by the company. the company "could" even use alternative accounting practices that render these exact statements false
-2) limit malice, gov't does look at timing of a short report
-3) no ridiculous or irregular trading volume, i.e. spoofing (which i doubt muddy waters, citron, or any of these long term shorters would have any incentive to do and we certainly don't) and no manipulative wash trading to distort price action (almost like that unintentional dux technique i was talking about if it were to be purposely timed with a report release but it would have to be with 10m+ size to be investigated im certain sec would not waste their time except on flashy, rogues like the guy i mentioned before and the short seller guy i linked above who impersonated)
+| [im talking small cap short reports not tesla - the audience is maybe too narrow for seeking alpha to put out regular articles on as their trying to sell subscriptions to a lot of people not enrich a few thousand active short traders]() | you guys probably already know this but i had to look it up because i'm new at this'
+1 - refrain from exact statements about financials which can be disproved by the company. the company -could- even use alternative accounting practices that render these exact statements false
+2 - limit malice, gov't does look at timing of a short report
+3 - no ridiculous or irregular trading volume, i.e. spoofing (which i doubt muddy waters, citron, or any of these long term shorters would have any incentive to do and we certainly don't) and no manipulative wash trading to distort price action (almost like that unintentional dux technique i was talking about if it were to be purposely timed with a report release but it would have to be with 10m+ size to be investigated im certain sec would not waste their time except on flashy, rogues like the guy i mentioned before and the short seller guy i linked above who impersonated)
 
 your short reports get the most views on your channel 
 
